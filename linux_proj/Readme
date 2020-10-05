@@ -1,0 +1,8 @@
+step1:It has two files one for sender.c and receiver.c .
+step2:Makefile contains:
+
+step3:Run makeall in terminal after entering into the folder of semaphore.
+step4:Output files will be created.
+       sen    rec
+step5:Run the ./sen output file one terminal and ./rec output file in another terminals.
+step6:Once you enter the data in the sender file terminal , it will be displayed in the receiver file.
